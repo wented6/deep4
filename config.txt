@@ -1,6 +1,6 @@
 token=NTIzMjU2OTczMTEwODA0NDky.DvW6mA.Jf6NlP5RIXsQ4nTVYm0fIOsgKSU
 owner=521341978659651596
 prefix= 4
-game= oo
+game=
 stayinchannel=true
 songinstatus=false
